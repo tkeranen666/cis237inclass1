@@ -10,6 +10,11 @@ namespace cis237inclass1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
+            Console.WriteLine("Here is some text");
+
+            Console.WriteLine("Text for second commit");
+            Console.WriteLine("And some more");
         }
     }
 }
